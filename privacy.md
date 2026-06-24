@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorthSky Support
+title: WorthSky Privacy Policy
 ---
 
 # WorthSky / 资产星图 Privacy Policy
