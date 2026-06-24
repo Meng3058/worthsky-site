@@ -1,3 +1,8 @@
+---
+layout: default
+title: WorthSky Support
+---
+
 # WorthSky / 资产星图 Privacy Policy
 
 Effective date: June 24, 2026
